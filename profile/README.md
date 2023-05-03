@@ -1,11 +1,13 @@
-## Welcome 👋
+## Welcome, friends! 👋
 
-🧙 We are a distributed team of researchers and engineers. The team is created to support software development teams with tools for automatic program analysis:
+🧙 We are a distributed team of researchers and engineers in the field of automatic program analysis.
+The team is dedicated to support software development teams with automatic program analysis tools:
 
-* Source code static analysis (including IFDS, symbolic execution, etc.)
+* Source code static analysis (as lightweight linters, as deep program analysis technics including IFDS/IDE + symbolic execution, etc.)
 * Binary code static analysis
 * Randomized testing of programs and libraries (Fuzzing)
 * Dynamic analysis of programs and libraries
+* Combined (hybrid) analysis methods
 * Automatic exploit generation
 etc.
 
@@ -16,6 +18,9 @@ etc.
 * Test cases generation
 * Architecture excavation/discovery
 etc.
+
+Our friends:
+* [UnitTestBot team](https://github.com/UnitTestBot)
 
 <!--
 
